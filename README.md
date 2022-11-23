@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Uriel-Alves
 - 📫 How to reach me uriel.rn@gmail.com
+- Software engineer
+- Debian lover
+- Living at Brazil
+
 
 <!---
 Uriel-Alves/Uriel-Alves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
